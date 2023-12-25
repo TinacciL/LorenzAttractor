@@ -10,9 +10,9 @@ This ```lorenz_attractor.c``` script uses the Lorenz chaotic system of different
 
 $$
 \begin{align*}
-\dot{x} &= \sigma \, (y - x)\\
-\dot{y} &= x \, (\rho - z) - y\\
-\dot{z} &= x \, y - \beta \, z
+\dot{x} &= \sigma (y - x)\\
+\dot{y} &= x (\rho - z) - y\\
+\dot{z} &= x y - \beta z
 \end{align*}
 $$
 
